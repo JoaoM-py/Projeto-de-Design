@@ -1,0 +1,64 @@
+.sub{
+    margin-top: 1px;
+    padding-left: 5px;
+}
+
+.tit{
+  margin-bottom: 1px;
+}
+
+.ig{
+  padding-right: 100px;
+  width: 150px;
+  height:150px;
+}
+
+.ig1{
+  width: 200px;
+  height:200px;
+  padding-right:40px
+
+}
+
+.ig2{
+  width: 200px;
+  height:200px;
+  padding-left:40px;
+}
+
+body{
+  margin:0;
+  background-color:#dddddd;
+}
+
+.navegação{
+  background-color:#222831;
+  height:25px;
+  padding:30px;
+  padding-left:500px;
+  border-bottom:solid 2px;
+}
+
+
+.nav{
+  display: inline;
+  border-left:80px;
+  padding:20px;
+}
+
+.t1{
+      margin-bottom: 2px
+}
+
+.t2{
+  margin-bottom: 10px;
+  margin-top:0;
+}
+
+.ft{
+  padding-top: 9px;
+    padding-left: 5px;
+}
+.lit{
+  list-style-type: square;
+}
